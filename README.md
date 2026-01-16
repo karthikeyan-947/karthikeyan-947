@@ -1,28 +1,28 @@
-# 👋 Hi, I'm Karthikeyan
+## Hi, I'm Karthikeyan 👋
 
-🚀 Tech enthusiast | Builder | AI & Web Projects
+I'm a self-taught B.Tech IT student and a project-driven learner who enjoys building real-world solutions with technology.
 
-🌐 **Portfolio**  
-👉 https://new-portfolio-en1.pages.dev/
+I focus on turning ideas into usable MVPs, especially in areas like AI tools, web platforms, and productivity systems. I believe the best way to learn is by building, testing, and iterating in public.
 
-💻 **GitHub Projects**  
-Check out my repositories below 👇
+### What I’m working on
+- AI-powered tools and utilities
+- Web-based platforms and MVPs
+- Projects that solve practical, real-world problems
 
-📬 **Connect with me**  
-LinkedIn: https://www.linkedin.com/in/YOUR-LINK
-## Hi there 👋
+### What I’m learning
+- JavaScript & modern web development
+- API integrations and AI tools
+- Building scalable and maintainable systems
 
-<!--
-**karthikeyan-947/karthikeyan-947** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Open to
+- Internships & entry-level opportunities
+- Collaborations on meaningful projects
+- Learning by building with other developers
 
-Here are some ideas to get you started:
+📫 Reach me:  
+- LinkedIn: www.linkedin.com/in/karthikeyan-shankar-2393332b4  
+- Portfolio: https://new-portfolio-en1.pages.dev/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⭐ If you find something useful here, feel free to explore or connect.
