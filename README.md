@@ -1,3 +1,15 @@
+# 👋 Hi, I'm Karthikeyan
+
+🚀 Tech enthusiast | Builder | AI & Web Projects
+
+🌐 **Portfolio**  
+👉 https://new-portfolio-en1.pages.dev/
+
+💻 **GitHub Projects**  
+Check out my repositories below 👇
+
+📬 **Connect with me**  
+LinkedIn: https://www.linkedin.com/in/YOUR-LINK
 ## Hi there 👋
 
 <!--
